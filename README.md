@@ -15,6 +15,8 @@ On the [London Datastore website](https://data.london.gov.uk/dataset/local-autho
 It is collating London’s tree data into one open source place to get a picture of London’s trees. The data contains location and species information for over 700,000 trees.
 
 ### My Shiny App
+Link to my Shiny App: https://philaiuk.shinyapps.io/DataCourse9Week4-ShinyApp/  
+
 On the right column, you will find displayed a map presenting:  
 - The trees of the London borough and specie(s) you have selected in the left column
 - You can zoom in and out in order to see the clusters of trees in the area  
